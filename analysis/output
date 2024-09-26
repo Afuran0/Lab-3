@@ -1,1 +1,43 @@
 
+PS C:\Users\amede\OneDrive\Desktop\CPSC1101\python> & C:/Users/amede/AppData/Local/Microsoft/WindowsApps/python3.12.exe c:/Users/amede/Downloads/lab-3.py
+Data preview:
+     Date  Profit/Losses
+0  Jan-10        1088983
+1  Feb-10        -354534
+2  Mar-10         276622
+3  Apr-10        -728133
+4  May-10         852993
+
+Column Names:
+Index(['Date', 'Profit/Losses'], dtype='object')
+
+unique Date Values:
+['Jan-10' 'Feb-10' 'Mar-10' 'Apr-10' 'May-10' 'Jun-10' 'Jul-10' 'Aug-10'
+ 'Sep-10' 'Oct-10' 'Nov-10' 'Dec-10' 'Jan-11' 'Feb-11' 'Mar-11' 'Apr-11'
+ 'May-11' 'Jun-11' 'Jul-11' 'Aug-11' 'Sep-11' 'Oct-11' 'Nov-11' 'Dec-11'
+ 'Jan-12' 'Feb-12' 'Mar-12' 'Apr-12' 'May-12' 'Jun-12' 'Jul-12' 'Aug-12'
+ 'Sep-12' 'Oct-12' 'Nov-12' 'Dec-12' 'Jan-13' 'Feb-13' 'Mar-13' 'Apr-13'
+ 'May-13' 'Jun-13' 'Jul-13' 'Aug-13' 'Sep-13' 'Oct-13' 'Nov-13' 'Dec-13'
+ 'Jan-14' 'Feb-14' 'Mar-14' 'Apr-14' 'May-14' 'Jun-14' 'Jul-14' 'Aug-14'
+ 'Sep-14' 'Oct-14' 'Nov-14' 'Dec-14' 'Jan-15' 'Feb-15' 'Mar-15' 'Apr-15'
+ 'May-15' 'Jun-15' 'Jul-15' 'Aug-15' 'Sep-15' 'Oct-15' 'Nov-15' 'Dec-15'
+ 'Jan-16' 'Feb-16' 'Mar-16' 'Apr-16' 'May-16' 'Jun-16' 'Jul-16' 'Aug-16'
+ 'Sep-16' 'Oct-16' 'Nov-16' 'Dec-16' 'Jan-17' 'Feb-17']
+
+Rows with unparseable dates:
+   date  rofit_loss
+0   NaT     1088983
+1   NaT     -354534
+2   NaT      276622
+3   NaT     -728133
+4   NaT      852993
+..  ...         ...
+81  NaT     -729004
+82  NaT     -112209
+83  NaT      516313
+84  NaT      607208
+85  NaT      382539
+
+[86 rows x 2 columns]
+
+Serial Search Result for 2023-01-02: None
